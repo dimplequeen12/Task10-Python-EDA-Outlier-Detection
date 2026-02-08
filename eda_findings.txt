@@ -1,0 +1,8 @@
+EDA Findings – Task 10
+
+1. The dataset contains housing-related numerical and categorical variables.
+2. Price distribution is right-skewed with several extreme values.
+3. Outliers in price were detected using the IQR method.
+4. Outliers were capped to avoid removing genuine high-value houses.
+5. Area and number of bathrooms show strong positive correlation with price.
+6. EDA helped understand data quality and relationships before modeling.
